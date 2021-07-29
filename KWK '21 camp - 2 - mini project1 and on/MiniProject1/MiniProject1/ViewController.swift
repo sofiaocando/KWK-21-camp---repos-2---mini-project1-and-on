@@ -9,8 +9,8 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet var titleLabel: UIView!
-    @IBOutlet var factsLabel: UIView!
+    //@IBOutlet var titleLabel: UIView!
+    //@IBOutlet var factsLabel: UIView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
